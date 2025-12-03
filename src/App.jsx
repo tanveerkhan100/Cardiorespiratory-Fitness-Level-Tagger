@@ -195,7 +195,7 @@ export default function App() {
 
   return (
     <div className="min-h-screen bg-gray-100 flex justify-center py-10 px-4">
-      <div className="w-full max-w-md bg-white shadow-md rounded-xl p-6">
+      <div className="w-full max-w-md h-fit bg-white shadow-md rounded-xl p-6">
         <h2 className="text-2xl font-semibold text-center mb-2">
           Cardiorespiratory Fitness Level Tagger
         </h2>
